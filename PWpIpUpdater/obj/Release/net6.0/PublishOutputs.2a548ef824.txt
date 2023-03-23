@@ -1,0 +1,6 @@
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\PWpIpUpdater.exe
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\appconfig.json
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\PWpIpUpdater.dll
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\PWpIpUpdater.deps.json
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\PWpIpUpdater.runtimeconfig.json
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\publish\PWpIpUpdater.pdb

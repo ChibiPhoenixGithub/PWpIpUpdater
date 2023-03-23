@@ -1,0 +1,16 @@
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\PWpIpUpdater.exe
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\PWpIpUpdater.deps.json
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\PWpIpUpdater.runtimeconfig.json
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\PWpIpUpdater.dll
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\PWpIpUpdater.pdb
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.csproj.AssemblyReference.cache
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.AssemblyInfoInputs.cache
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.AssemblyInfo.cs
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.csproj.CoreCompileInputs.cache
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.dll
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\refint\PWpIpUpdater.dll
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.pdb
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\PWpIpUpdater.genruntimeconfig.cache
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\obj\Release\net6.0\ref\PWpIpUpdater.dll
+D:\C# Projects\PWpIpUpdater\PWpIpUpdater\bin\Release\net6.0\appconfig.json

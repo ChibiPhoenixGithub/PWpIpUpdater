@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MVVNTSehMUAd+6apRl7SrA8blG109DdX65Whi/LKw5ankHEfO5i0yvPMPNJXeUmDopTwzfXHE0XcrnUuxUzmQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\PWpIpUpdater\\PWpIpUpdater\\PWpIpUpdater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phoenix\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Phoenix\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Phoenix\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
